@@ -46,9 +46,9 @@ I am a Cybersecurity student currently in my placement year, focusing on threat 
 
 ---
 
-# Featured Projects
-- **Data Anonymisation Tool** – A practical tool for anonymising sensitive data using hashing and masking techniques.  
-- **Password Strength Checker** – A simple frontend project demonstrating secure password practices.  
+## Featured Projects
+- [Data Anonymisation Tool](https://github.com/mangle-fnaf/Data-Anonymisation-Tool)
+- [Password Strength Checker](https://github.com/mangle-fnaf/Password-Strength-Checker)
 - Additional cybersecurity tools and scripts currently in development.
 
 ---
